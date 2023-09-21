@@ -112,6 +112,7 @@ sources += girara_css
 
 # header files to install
 headers = files(
+  'girara/internal.h',
   'girara/callbacks.h',
   'girara/commands.h',
   'girara/completion.h',
